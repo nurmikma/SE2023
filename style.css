@@ -1,0 +1,7 @@
+/* Kujundame pealkirja (#page-title) */
+h1 {
+    color: #0077b6; /* Sinine värv */
+    font-size: 36px; /* Suurus 36 pikslit */
+    font-family: "Arial", sans-serif; /* Font Arial või sans-serif perekonnast */
+    font-weight: bold; /* Paks font */
+}
